@@ -1,13 +1,9 @@
-# Projektnamn här
+# Designjocke
 Projektmedlemmar: [jl223ag](https://github.com/jl223ag)
 
-[Exekverbar version av projektet](http://tstjostudent.github.io/Projektet)
-
-*Länka till en körbar version av projektet ovan. Exempelvis kan ni skapa en gh-pages-branch på samma sätt som i Uppgift 1.1, laboration 1.*
+[Exekverbar version av projektet](https://github.com/jl223ag/ProjektskelettHT13/tree/gh-pages)
 
 ## Beskrivning av projektet
-*
-<h3>Designjocke</h3>
 
 Jag har tänkt göra en företagssida för migsjälv. Detta är något jag tror att jag kommer behöva ha i framtiden
 när jag ska börja söka jobb inom branchen, eller om jag kanske vill "frilansjobba" lite.
