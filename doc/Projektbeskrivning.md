@@ -7,7 +7,8 @@ Projektmedlemmar: [jl223ag](https://github.com/jl223ag)
 
 ## Beskrivning av projektet
 *En kort och koncis beskrivning av projektet. Vad är det ni vill skapa? Varför? Hur fick ni idén?*
-Designjocke
+
+<h1>Designjocke</h1>
 
 Jag har tänkt göra en företagssida för migsjälv. Detta är något jag tror att jag kommer behöva ha i framtiden
 när jag ska börja söka jobb inom branchen, eller om jag kanske vill "frilansjobba" lite.
@@ -16,6 +17,15 @@ Funderar också på att lägga upp den på ett webbhotell när den är klar för
 Hursomhelst kommer det huvudsakligen finnas 4 sidor: Startsidan, portfolio, om mig, och kontakt. Namnet för sidan blir
 "Designjocke" (jag är ingen designer men kom inte på något bättre namn). I portfolion blir det förmodligen några 
 extra delsidor.
+
+Startsidan ska i princip formulera att jag letar efter jobb inom webb-branchen och att jag är en webbdesigner/programmerare.
+I portfolion kommer
+alla jobb jag har gjort att finnas med en bild och länk. I "om mig" ska det väl finnas en beskrivning om vem jag är och
+vilka tekniker jag kan. På kontaktsidan kommer det nog enbart att finnas ett formulär för att skicka ett email till mig.
+finns ingen ide att göra det mer avancerat, speciellt inte för mobila användare som sidan ska vara anpassad för. Så
+överlag kommer jag försöka hålla allt så cleant och sparsamt som möjligt, så att det blir användarvändligt och enkelt
+att navigera med mobiltelefonerna. Det ska absolut inte behövas eller ens gå att scrolla i sidled tex.
+
 
 ## Tekniker
 *Vilka tekniker kommer att användas? Kommer ni att använda några ramverk? CSS-preprocessors?*
