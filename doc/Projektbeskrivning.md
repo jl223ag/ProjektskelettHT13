@@ -8,7 +8,7 @@ Projektmedlemmar: [jl223ag](https://github.com/jl223ag)
 ## Beskrivning av projektet
 *En kort och koncis beskrivning av projektet. Vad är det ni vill skapa? Varför? Hur fick ni idén?*
 
-<h1>Designjocke</h1>
+<h3>Designjocke</h3>
 
 Jag har tänkt göra en företagssida för migsjälv. Detta är något jag tror att jag kommer behöva ha i framtiden
 när jag ska börja söka jobb inom branchen, eller om jag kanske vill "frilansjobba" lite.
