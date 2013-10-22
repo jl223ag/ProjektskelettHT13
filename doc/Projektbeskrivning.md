@@ -1,4 +1,4 @@
-# Designjocke
+# Webbjocke
 Projektmedlemmar: [jl223ag](https://github.com/jl223ag)
 
 [Exekverbar version av projektet](https://github.com/jl223ag/ProjektskelettHT13/tree/gh-pages)
@@ -9,7 +9,7 @@ Jag har tänkt göra en företagssida för migsjälv. Ungefär som ett slags cv 
 Detta är något jag tror att jag kommer behöva ha i framtiden när jag ska börja söka jobb inom branchen, eller om jag kanske vill "frilansjobba" lite på sommarlovet.
 
 Hursomhelst kommer det huvudsakligen finnas 4 sidor: Startsidan, portfolio, om mig, och kontakt. Namnet för sidan blir
-"Designjocke" (jag är ingen designer men kom inte på något bättre namn). I portfolion blir det förmodligen några extra delsidor.
+"Webbjocke". I portfolion blir det förmodligen några extra delsidor.
 
 Startsidan ska i princip formulera att jag letar efter jobb inom webb-branchen och att jag är en webbdesigner/programmerare.
 I portfolion kommer alla jobb jag har gjort att finnas med en bild och länk. I "om mig" ska det finnas en beskrivning om vem jag är och
