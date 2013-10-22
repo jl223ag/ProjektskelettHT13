@@ -36,4 +36,4 @@ Annars ser jag inga begränsningar eftersom jag inte tänkt att ha någon regist
 Kommer enbart att låta mig inspireras lite hur sidan ska se ut av alla hundratals webbdesigners hemsidor som finns. Eftersom det också ska vara "mobile first" så får jag läsa på lite om det innan jag drar igång.
 
 ## Tidsplanering
-<img src="sheet.png" alt="tidsplaneringen">
+[Tidsplanen](https://c9.io/jl223ag/1ik415-laborationsrummet/workspace/gallery/pictures/image.html)
