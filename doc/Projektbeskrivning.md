@@ -26,6 +26,8 @@ html5 markupen och använda mig av en hel del css3.
 
 Har inte riktigt hunnit sätta mig in i några ramverk så jag kommer göra allt helt från grunden, förmodligen i cloud9.
 
+Edit: Ska försöka mig på en dropdown-menu med javascript.
+
 ## Begränsningar
 
 Portfolion kommer vara fejk eftersom jag aldrig gjort något webbrelaterat jobb förut. Kontaktformuläret kommer att finnas, men inte att fungera. 
