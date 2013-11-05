@@ -1,7 +1,9 @@
 # Webbjocke
 Projektmedlemmar: [jl223ag](https://github.com/jl223ag)
 
-[Exekverbar version av projektet](https://github.com/jl223ag/ProjektskelettHT13/tree/gh-pages)
+[Exekverbar version av projektet](https://github.com/jl223ag/webbprojektet/tree/master)
+
+Nu funkar länken ovanför!!
 
 ## Beskrivning av projektet
 
